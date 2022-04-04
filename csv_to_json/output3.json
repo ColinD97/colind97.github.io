@@ -1,0 +1,261 @@
+NAME,Color Name,Series,Common Pigment Name,CI Name,LightFastness Number,Staining Number,Granulation-YN,Transparency Icon,Available In
+284600003,Lamp Black,Series 1,Lamp Black,PBk 6,I,4,N,O,15/S
+284600004,Alizarin Crimson,Series 1,Alizarin Crimson,PR 83,IV,3,N,T,15/5/S
+284600005,Anthraquinoid Red,Series 2,Anthraquinoid Red,PR 177,I,3,N,T,15
+284600006,Aureolin (Cobalt Yellow),Series 3,Aureolin (Cobalt Yellow),PY 40,II,1,N,T,15/5/S
+284600008,Bordeaux,Series 2,Benzimidazolone Bordeaux,PV 32,II,3,N,S,15
+284600009,Buff Titanium,Series 1,Buff Titanium,PW 6:1,I,1,Y,S,15/5/S/HP
+284600010,Burnt Sienna,Series 1,Burnt Sienna,PBr 7,I,1,Y,S,15/5/S/HP
+284600011,Burnt Umber,Series 1,Burnt Umber,PBr 7,I,2,Y,S,15/5/S/HP
+284600019,Carbazole Violet,Series 2,Dioxazine Purple,PV 23(RS),I,3,N,S,15/5/S
+284600020,Carmine,Series 2,Benzimidazolone Carmine,PR 176,II,4,N,S,15
+284600021,Cerulean Blue -  Chromium,Series 2,Cerulean Blue -  Chromium,PB 36,I,2,Y,S,15/5/S/HP
+284600023,Chinese White,Series 1,Zinc White,PW 4,I,1,N,S,15/5
+284600024,Chromium Green Oxide,Series 1,Chromium Green Oxide,PG 17,I,2,Y,O,15
+284600025,Cobalt Blue,Series 3,Cobalt Blue,PB 28,I,2,Y,S,15/5/S
+284600026,Cobalt Green,Series 3,Cobalt Green,PG 50,I,2,Y,S,15
+284600027,Cobalt Green Pale,Series 3,Cobalt Green Pale,PG 19,I,1,Y,T,15
+284600028,Cobalt Teal Blue,Series 2,Light Green Oxide,PG 50,I,1,Y,S,15/5/S
+284600029,Cobalt Turquoise,Series 3,Cobalt Turquoise,PB 36,I,1,Y,S,15/HP
+284600030,Cobalt Violet,Series 3,Cobalt Violet,PV 49,I,1,Y,T,15/5
+284600031,Cobalt Violet Deep,Series 3,Cobalt Violet,PV 14,I,2,Y,T,15
+284600033,Deep Scarlet,Series 1,Benzimidazolone Red,PR 175,I,3,N,S,15
+284600034,French Ultramarine,Series 2,Ultramarine Blue,PB 29,I,3,Y,T,15/5/S
+284600038,Graphite Gray,Series 1,Graphite Gray,PBk 10,I,2,N,O,15/S
+284600039,Hansa Yellow Medium,Series 2,Arylide Yellow FGL,PY 97,I,2,N,S,15/5/S/HP
+284600040,Hansa Yellow Deep,Series 1,Arylide Yellow RN,PY 65,I,2,N,S,15/5/HP
+284600041,Hansa Yellow Light,Series 1,Arylide Yellow 10G,PY 3,II,2,N,S,15/5/S/HP
+284600042,Hooker's Green,Series 1,Phthalocyanine Green -  Arylide Yellow 10G -  Nickel Azo Yellow -  Quinacridone Gold,PG 36 |  PY 3 |  PY 150 |  PO 48,II,2,N,S,15/5
+284600043,Indanthrone Blue,Series 2,Indanthrone Blue,PB 60,I,3,N,T,15/5/S
+284600044,Indian Red,Series 1,Indian Red,PR 101,I,3,Y,O,15/HP
+284600045,Indian Yellow,Series 3,Arylide Yellow FGL -  Nickel Azo Yellow,PY 97 |  PY 150,I,2,N,T,15/5
+284600046,Indigo,Series 1,Indanthrone Blue -  Lamp Black,PB 60 |  PBk 6,I,3,N,T,15/5/HP
+284600047,Italian Burnt Sienna,Series 2,Burnt Sienna,PBr 7,I,1,Y,S,15
+284600048,Ivory Black,Series 1,Ivory Black,PBk 9,I,2,Y,S,15
+284600049,Lunar Black,Series 1,Mars Black,PBk 11,I,2,Y,T,15/5/S/HP
+284600050,Lunar Earth,Series 1,Magnesium Ferrite,PBr 11,I,1,Y,T,15
+284600051,Manganese Blue Hue,Series 1,Phthalocyanine Blue,PB 15,II,3,Y,T,15/5
+284600054,Mars Yellow,Series 1,Mars Yellow,PY 42,I,1,Y,S,15
+284600056,Monte Amiata Natural Sienna,Series 1,Natural Sienna,PBr 7,I,2,Y,T,15/HP
+284600057,Moonglow,Series 2,Viridian -  Ultramarine Blue -  Anthraquinoid Red,PG 18 |  PB 29 |  PR 177,I,2,Y,T,15/5/S/HP
+284600058,Naples Yellow,Series 1,Zinc White -  Arylide Yellow FGL -  Venetian Red,PW 4 |  PY 97 |  PR 101,I,1,N,S,15/5
+284600059,Naphthamide Maroon,Series 1,Benzimidazolone Maroon,PR 171,I,2,N,S,15
+284600060,New Gamboge,Series 1,Arylide Yellow FGL -  Isoindolinone Yellow R,PY 97 |  PY 110,I,2,N,T,15/5/S
+284600061,Nickel Azo Yellow,Series 2,Nickel Azo Yellow,PY 150,I,2,N,T,15/5/S
+284600062,Nickel Titanate Yellow,Series 1,Nickel Titanate Yellow,PY 53,I,1,Y,S,15
+284600063,Olive Green,Series 1,Arylide Yellow FGL -  Ultramarine Blue -  Raw Umber,PY 97 |  PB 29 |  PBr 7,I,2,Y,S,15
+284600064,Organic Vermilion,Series 2,Naphthol Red AS,PR 188,II,2,N,S,15/5/S
+284600065,Payne's Gray,Series 1,Ultramarine Blue -  Ivory Black,PB 29 |  PBk 9,I,2,Y,S,15/5
+284600066,Perinone Orange,Series 3,Perinone Orange,PO 43,I,4,N,S,15/5
+284600067,Permanent Green Light,Series 1,Arylide Yellow 10G -  Phthalocyanine Green,PY 3 |  PG 7,II,2,N,S,15/S
+284600068,Permanent Brown,Series 2,Benzimidazolone Brown,PBr 25,I,3,N,T,15
+284600069,Permanent Red Deep,Series 1,Naphthol Crimson,PR 170 F5RK,II,3,N,S,15
+284600070,Permanent Green,Series 1,Arylide Yellow 10G -  Phthalocyanine Green,PY 3 |  PG 7,II,3,N,T,15
+284600071,Permanent Orange,Series 3,Benzimidazolone Orange,PO 62,I,2,N,T,15
+284600072,Permanent Red,Series 1,Naphthol Red  ,PR 170 F3RK-70,II,4,N,S,15
+284600073,Permanent Violet,Series 3,Quinacridone Magenta -  Ultramarine Blue,PR 202 |  PB 29,I,3,N,S,15
+284600074,Perylene Maroon,Series 3,Perylene Maroon,PR 179,I,4,N,S,15
+284600075,Perylene Red,Series 3,Perylene Red,PR 178,I,3,N,S,15
+284600076,Perylene Scarlet,Series 3,Perylene Scarlet,PR 149,II,3,Y,S,15
+284600077,Phthalo Blue (Green Shade),Series 1,Phthalocyanine Blue,PB 15:3,I,4,N,T,15/5/S/HP
+284600078,Phthalo Green (Blue Shade),Series 1,Phthalocyanine Green ,PG 7,I,4,N,T,15/5/S/HP
+284600079,Phthalo Green (Yellow Shade),Series 2,Phthalocyanine Green ,PG 36,I,4,N,T,15/5/S
+284600080,Phthalo Turquoise,Series 1,Phthalocyanine Blue -  Phthalocyanine Green,PB 15:3 |  PG 36,I,4,N,T,15/5/S
+284600082,Prussian Blue,Series 1,Prussian Blue,PB 27,I,3,Y,T,15/5
+284600084,Pyrrol Red,Series 3,Pyrrole Red,PR 254,I,3,N,S,15/5/S
+284600085,Pyrrol Scarlet,Series 3,Pyrrole Scarlet,PR 255,I,3,N,S,15/5/HP
+284600086,Quinacridone Burnt Orange,Series 2,Quinacridone Gold,PO 48,I,2,Y,T,15/5/S/HP
+284600087,Quinacridone Burnt Scarlet,Series 2,Quinacridone Burnt Scarlet,PR 206,I,2,N,T,15/5/S
+284600088,Quinacridone Coral,Series 2,Quinacridone Coral,PR 209,I,2,N,T,15/5/S
+284600090,Quinacridone Magenta,Series 2,Quinacridone Magenta,PR 202,I,3,N,T,15/5
+284600091,Quinacridone Red,Series 2,Quinacridone Red,PV 19,I,3,N,T,15/5/S
+284600092,Quinacridone Rose,Series 2,Quinacridone Rose,PV 19,I,3,N,T,15/5/HP
+284600093,Quinacridone Sienna,Series 2,Quinacridone Gold -  Nickel Azo Yellow -  Quinacridone Coral,PO 48 |  PY 150 |  PR 209,I,2,Y,T,15/5/S
+284600094,Quinacridone Violet,Series 2,Quinacridone Violet,PV 19,I,4,N,T,15/5/S
+284600095,Quinacridone Pink,Series 2,Quinacridone Pink,PV 42,II,2,N,T,15/5
+284600096,Raw Sienna,Series 1,Raw Sienna,PBr 7,I,2,Y,S,15/5/S
+284600097,Raw Umber,Series 1,Raw Umber,PBr 7,I,2,Y,S,15/5/HP
+284600098,Raw Umber Violet,Series 1,Raw Umber -  Quinacridone Violet,PBr 7 |  PV 19,I,2,Y,S,15
+284600099,Rich Green Gold,Series 2,Azomethine Yellow 5G,PY 129,I,2,N,S,15/5/S
+284600101,Rose of Ultramarine,Series 1,Ultramarine Blue -  Quinacridone Red,PB 29 |  PV 19,I,3,Y,T,15/5/HP
+284600102,Sap Green,Series 2,Quinacridone Gold -  Nickel Azo Yellow -  Phthalocyanine Green,PO 48 |  PY 150 |  PG 7,I,3,Y,T,15/5/S/HP
+284600103,Sepia,Series 1,Burnt Umber -  Ivory Black,PBr 7 |  PBk 9,I,2,Y,S,15/5
+284600104,Terre Verte,Series 1,Viridian -  Raw Umber,PG 18 |  PBr 7,I,1,Y,T,15
+284600105,Ultramarine Turquoise,Series 1,Ultramarine Blue -  Phthalocyanine Green,PB 29 |  PG 7,I,2,Y,T,15/5
+284600106,Ultramarine Blue,Series 1,Ultramarine Blue,PB 29,I,3,Y,T,15/5/S/HP
+284600107,Ultramarine Red,Series 1,Ultramarine Red,PV 15,I,1,Y,T,15
+284600108,Ultramarine Violet,Series 1,Ultramarine Violet,PV 15,I,2,Y,T,15/5
+284600109,Undersea Green,Series 1,Ultramarine Blue -  Quinacridone Gold -  Nickel Azo Yellow,PB 29 |  PO 48 |  PY 150,I,3,Y,S,15/5/S/HP
+284600110,Van Dyck Brown,Series 1,Umbers -  Siennas,PBr 7,I,1,Y,S,15
+284600111,Venetian Red,Series 1,Venetian Red,PR 101,I,3,Y,O,15/HP
+284600112,Viridian,Series 2,Viridian,PG 18,I,1,Y,T,15/5
+284600114,Yellow Ochre,Series 1,Yellow Ochre,PY 43,I,1,Y,T,15/5/S/HP
+284600115,Cobalt Blue Violet,Series 3,Cobalt Blue -  Quinacridone Red,PB 28 |  PV 19,I,2,Y,S,15
+284600116,Pompeii Red,Series 2,Burnt Sienna,PBr 7,I,2,Y,S,15
+284600117,Terre Ercolano,Series 2,Raw Sienna,PBr 7 |  PR 101,I,2,Y,S,15
+284600118,Titanium White,Series 1,Titanium White,PW 6,I,1,N,S,15/5/S
+284600119,Phthalo Blue (Red Shade),Series 1,Phthalocyanine Blue,PB 15:6,I,4,N,T,15/5/S
+284600121,German Greenish Raw Umber,Series 1,Raw Umber,PBr 7,I,1,Y,S,15
+284600122,Italian Venetian Red,Series 1,Venetian Red,PR 101,I,1,Y,S,15
+284600123,Verona Gold Ochre,Series 1,Yellow Ochre,PY 43,I,1,Y,T,15
+284600124,Phthalo Yellow Green,Series 1,Phthalocyanine Green -  Arylide Yellow 10G,PG 36 |  PY 3,II,3,N,T,15
+284600126,Pyrrol Orange,Series 2,Pyrrole Orange,PO 73,I,3,N,S,15/5/S
+284600127,Pyrrol Crimson,Series 2,Pyrrole Crimson,PR 264,I,3,N,S,15
+284600128,Prussian Green,Series 1,Prussian Blue -  Arylide Yellow FGL,PB 27 |  PY 97,I,3,Y,S,15
+284600129,Transparent Brown Oxide,Series 1,Transparent Brown Oxide,PR 101,I,1,Y,T,15
+284600130,Transparent Red Oxide,Series 1,Transparent Red Oxide,PR 101,I,1,Y,T,15/HP
+284600131,Transparent Yellow Oxide,Series 1,Transparent Yellow Oxide,PY 42,I,1,Y,T,15
+284600132,Quinacridone Fuchsia,Series 2,Quinacridone Fuchsia,PR 202,I,3,N,T,15
+284600133,Permanent Yellow Deep,Series 2,Isoindolinone Yellow R,PY 110,I,2,N,T,15
+284600134,French Ochre,Series 1,French Yellow Ochre,PY 43,I,1,Y,T,15
+284600135,Italian Deep Ochre,Series 1,Italian Yellow Ochre,PY 43,I,1,Y,T,15
+284600136,English Red Ochre,Series 1,English Red Ochre,PR 101,I,1,Y,T,15
+284600137,English Red Earth,Series 1,English Red Earth,PR 101,I,1,Y,O,15
+284600138,Lapis Lazuli Genuine,Series 5,Genuine Lapis Lazuli,,I,1,Y,T,15
+284600139,Green Gold,Series 2,Nickel Azo Yellow -  Arylide Yellow 10G -  Phthalocyanine Green,PY 150 |  PY 3 |  PG 36,II,3,N,T,15/5
+284600141,Lunar Red Rock,Series 1,Red Hematite,PR 101,I,2,Y,S,15
+284600142,Cascade Green,Series 1,Raw Sienna -  Phthalocyanine Blue,PBr 7 |  PB 15,I,3,Y,S,15/5/HP
+284600143,Minnesota Pipestone Genuine,Series 2,Genuine Catlinite, ,I,1,Y,S,15
+284600144,Goethite (Brown Ochre),Series 1,Goethite (Brown Ochre),PY 43,I,2,Y,S,15/HP
+284600145,Sedona Genuine,Series 2,Natural Red Ochre,,I,1,Y,S,15
+284600146,Yavapai Genuine,Series 2,Natural Brown Ochre,,I,1,Y,T,15
+284600147,Burgundy Yellow Ochre,Series 2,Yellow Ochre - Burgundy -  France,PY 43,I,1,Y,T,15
+284600148,Potter's Pink,Series 3,Chrome Tin Pink Sphene,PR 233,I,2,Y,S,15
+284600150,Sleeping Beauty Turquoise Genuine,Series 5,Genuine Sleeping Beauty Turquoise,,I,1,Y,S,15
+284600151,Burgundy Red Ochre,Series 2,Red Ochre - Burgundy -  France,PR 102,I,1,Y,T,15
+284600152,Quinacridone Deep Gold,Series 2,Quinacridone Gold -  Nickel Azo Yellow,PO 48 |  PY150,I,2,N,T,15/5
+284600154,Bismuth Vanadate Yellow,Series 2,Bismuth Vanadate Yellow,PY 184,I,2,N,O,15/5/S
+284600155,Kingman Green Turquoise Genuine,Series 5,Genuine Kingman Green Turquoise,,I,1,Y,T,15
+284600156,Hematite Genuine,Series 3,Genuine Hematite,,I,2,Y,S,15/5/S
+284600157,Hematite Violet Genuine,Series 3,Genuine Hematite,,I,2,Y,S,15
+284600158,Hematite Burnt Scarlet Genuine,Series 3,Genuine Hematite,,I,2,Y,S,15
+284600161,Tiger's Eye Genuine,Series 2,Genuine Tiger's Eye,,I,1,Y,T,15
+284600162,Burnt Tiger's Eye Genuine,Series 2,Genuine Burnt Tiger's Eye,,I,2,Y,T,15
+284600163,Amazonite Genuine,Series 2,Genuine Amazonite,,I,1,N,T,15/5
+284600164,Purpurite Genuine,Series 2,Genuine Purpurite,,I,2,Y,S,15
+284600165,Lemon Yellow,Series 1,Benzimidazolone Yellow H6G,PY 175,I,2,N,T,15/5
+284600166,Mummy Bauxite,Series 1,Natural Iron Oxide -  Bauxite,,I,2,Y,S,15
+284600167,Rhodonite Genuine,Series 2,Genuine Rhodonite,,I,2,N,T,15/5
+284600169,Fuchsite Genuine,Series 2,Genuine Fuchsite,,I,1,N,T,15
+284600170,Burnt Yellow Ochre,Series 2,Calcined Yellow Ochre,PR 102,I,2,Y,T,15
+284600171,Roasted French Ochre,Series 2,Calcined Yellow Ochre,PR 102,I,2,Y,T,15
+284600172,Fired Gold Ochre,Series 2,Calcined Yellow Ochre,PR 102,I,1,Y,T,15
+284600173,Verditer Blue,Series 2,Cobalt Blue -  Cerulean Blue/Chromium -  Zinc White,PB 28 |  PB 36 |  PW 4,I,2,Y,S,15
+284600174,Imperial Purple,Series 2,Quinacridone Red -  Ultramarine Blue,PV 19 |  PB 29,I,2,Y,S,15/5/S
+284600175,Deep Sap Green,Series 2,Prussian Blue -  Arylide Yellow 10G -  Quinacridone Gold,PB 27 |  PY 3 |  PO 48,II,3,N,T,15/5
+284600176,Enviro-Friendly Yellow Iron Oxide,Series 2,Recycled Iron Oxide,PBr 6,I,1,Y,S,15
+284600177,Enviro-Friendly Red Iron Oxide,Series 2,Recycled Iron Oxide,PBr 6,I,1,Y,S,15
+284600178,Enviro-Friendly Brown Iron Oxide,Series 2,Recycled Iron Oxide,PBr 6,I,1,Y,S,15
+284600179,Sodalite Genuine,Series 4,Genuine Sodalite,,I,2,Y,S,15/5/S/HP
+284600180,Zoisite Genuine,Series 4,Genuine Zoisite,,I,2,Y,S,15
+284600181,Rare Green Earth,Series 2,Natural Rare Green Earth,,I,1,Y,T,15
+284600182,Lunar Violet,Series 2,Ultramarine Violet -  Mars Black,PV 15 |  PBk 11,I,2,Y,S,15
+284600183,Lunar Blue,Series 2,Mars Black -  Phthalocyanine Blue,PBk 11 |  PB 15,I,2,Y,S,15/5/HP
+284600184,Cadmium Yellow Medium Hue,Series 3,Nickel Titanate Yellow -  Benzimidazolone Yellow -  Diarylide Yellow,PY 53 |  PY 151 |  PY 83,I,2,N,S,15/5/HP
+284600185,Permanent Alizarin Crimson,Series 2,Anthraquinoid Red -  Quinacridone Red -  Perylene Scarlet,PR 177 |  PV 19 |  PR 149,I,3,N,T,15/5/S/HP
+284600186,Kyanite Genuine,Series 4,Genuine Kyanite,,I,1,Y,T,15
+284600187,Transparent Pyrrol Orange,Series 2,Pyrrole Orange,PO 71,I,2,N,T,15/5
+284600188,Shadow Violet,Series 2,Pyrrole Orange -  Ultramarine Blue -  Viridian,PO 73 |  PB 29 |  PG 18,I,1,Y,T,15/5/HP
+284600189,Red Fuchsite Genuine,Series 3,Genuine Red Fuchsite,,I,1,Y,T,15
+284600190,Serpentine Genuine,Series 4,Genuine Serpentine,,I,1,Y,S,15/5/S/HP
+284600191,Piemontite Genuine,Series 4,Genuine Piemontite,,I,2,Y,S,15/5/S
+284600192,Cadmium Yellow Light Hue,Series 3,Nickel Titanate Yellow -  Quinophthalone Yellow -  Arylide Yellow 10G,PY 53 |  PY 138 |  PY 3,II,2,N,S,15/5
+284600193,Bloodstone Genuine,Series 2,Genuine Bloodstone,,I,1,Y,T,15/5
+284600194,Perylene Green,Series 2,Perylene Green,PBk 31,I,3,N,S,15/5/HP
+284600195,Jadeite Genuine,Series 4,Genuine Jadeite,,I,1,Y,S,15/5
+284600196,Blue Apatite Genuine,Series 4,Genuine Blue Apatite,,I,1,Y,T,15
+284600197,Green Apatite Genuine,Series 3,Genuine Green Apatite,,I,2,Y,S,15/5/HP
+284600198,Opera Pink,Series 1,Quinacridone Magenta -  Fluorescent Pigment,PR 122,IV,1,Y,T,15/5/S
+284600199,Bronzite Genuine,Series 3,Genuine Bronzite,,I,1,Y,T,15/HP
+284600200,Sugilite Genuine,Series 3,Genuine Sugilite,,I,2,Y,T,15
+284600201,Perylene Violet,Series 3,Perylene Violet,PV 29,I,3,N,T,15
+284600203,Amethyst Genuine,Series 4,Genuine Amethyst,,I,2,Y,S,15/5
+284600204,Burnt Bronzite Genuine,Series 3,Genuine Burnt Bronzite,,I,1,Y,T,15
+284600205,Garnet Genuine,Series 4,Genuine Garnet,,I,2,Y,T,15
+284600206,Cerulean Blue,Series 3,Cerulean Blue,PB 35,I,1,Y,S,15/5/HP
+284600207,Black Tourmaline Genuine,Series 3,Genuine Black Tourmaline,,I,1,Y,T,15
+284600208,Spring Green,Series 3,Nickel Titanate Yellow -  Phthalocyanine Green -  Benzimidazolone Yellow,PY 53 |  PG 36 |  PY 151,I,2,N,S,15
+284600209,Sicklerite Genuine,Series 4,Genuine Sicklerite,,I,1,Y,T,15
+284600210,Diopside Genuine,Series 3,Genuine Diopside,,I,2,Y,T,15
+284600211,Mayan Blue Genuine,Series 3,Genuine Mayan Blue,,II,2,Y,T,15/5
+284600212,Mayan Yellow,Series 3,Hybrid Inorganic/Organic Pigment,PY 223,II,1,N,T,15
+284600213,Mayan Dark Blue,Series 3,Hybrid Inorganic/Organic Pigment,PB 82,II,2,N,S,15
+284600214,Mayan Violet,Series 3,Hybrid Inorganic/Organic Pigment,PV 58,II,2,Y,T,15
+284600215,Azo Yellow,Series 3,Benzimidazolone Yellow H4G,PY 151,I,3,N,S,15
+284600216,Mayan Orange,Series 3,Hybrid Inorganic/Organic Pigment,PO N/A,II,2,N,S,15
+284600217,Mayan Red,Series 3,Hybrid Inorganic/Organic Pigment,PR 287,II,2,Y,T,15
+284600218,Isoindoline Yellow,Series 2,Isoindoline Yellow,PY 139,I,3,N,S,15
+284600219,Cadmium Red Scarlet Hue,Series 3,Nickel Titante Yellow -  Pyrrole Red -  Diarylide Yellow,PY 53 |  PR 254 |  PY 83,I,2,N,S,15
+284600220,Cadmium Orange Hue,Series 3,Nickel Titante Yellow -  Pyrrole Orange -  Diarylide Yellow,PY 53 |  PO 73 |  PY 83,I,2,N,S,15
+284600221,Cadmium Yellow Deep Hue,Series 3,Nickel Titante Yellow -  Diarylide Yellow,PY 53 |  PY 83,I,1,N,S,15
+284600222,Cadmium Red Medium Hue,Series 3,Nickel Titante Yellow -  Pyrrole Red,PY 53 |  PR 254,I,2,N,S,15/5
+284600223,Quinophthalone Yellow,Series 3,Quinophthalone Yellow,PY 138,II,2,N,S,15
+284600224,Anthraquinoid Scarlet,Series 3,Anthraquinoid Scarlet,PR 168,I,2,N,T,15
+284600225,Quinacridone Purple,Series 2,Quinacridone Purple,PV 55,I,3,N,T,15/5
+284600229,Neutral Tint,Series 1,Lamp Black -  Quinacridone Violet -  Phthalocyanine Blue,PBk 6 |  PV 19 |  PB 15,I,2,N,S,15/5
+284600230,Burnt Sienna Light,Series 1,Transparent Red Oxide -  Quinacridone Gold,PR 101 |  PO 48,I,1,N,T,15/5/HP
+284600231,Wisteria,Series 2,Titanium White -  Quinacridone Lilac,PW 6 |  PR 122,II,1,N,S,15/HP
+284600232,Lavender,Series 2,Titanium White -  Ultramarine Violet -  Ultramarine Blue,PW 6 |  PV 15 |  PB 29,I,2,Y,S,15/HP
+284600233,Raw Sienna Light,Series 1,Mars Yellow,PY 42,I,1,N,S,15/HP
+284600234,Aussie Red Gold,Series 2,Diarylide Yellow -  Transparent Red Oxide -  Quinacridone Red,PY 83 |  PR 101 |  PV 19,I,2,N,T,15/5
+284600235,Payne's Blue Gray,Series 1,Indanthrone Blue -  Lamp Black,PB 60 |  PBk 6,I,2,N,S,15/HP
+284600236,Quinacridone Lilac,Series 2,Quinacridone Lilac,PR 122,II,3,N,T,15
+284600237,Rose Madder Permanent,Series 2,Quinacridone Yellow Red -  Quinacridone Red -  Quinacridone Magenta,PR 209 |  PV 19 |  PR 202,I,1,N,T,15
+284600238,Quinacridone Gold,Series 2,Quinacridone Gold,PO 48 |  PY 150,I,2,Y,T,15/5/S/HP
+284600239,Jane's Grey,Series 2,Ultramarine Blue -  Burnt Sienna,PB 29 |  PBr 7,I,2,Y,S,15/HP
+284600240,Red Jasper Genuine,Series 3,Genuine Red Jasper,,I,1,Y,S,15
+284600241,Gray Titanium,Series 1,Gray Titanium,PW 6,I,1,Y,S,15
+284600242,Alvaro's Fresco Grey,Series 2,Ultramarine Blue -  Ultramarine Violet -  Titanium White,PB 29 |  PV 15 |  PW 6,I,2,Y,S,15
+284600243,Alvaro's Caliente Grey,Series 2,Burnt Sienna -  Ultramarine Blue -  Lamp Black,PBr 7 |  PB 29 |  PBk 6,I,2,N,S,15
+284600244,Joseph Z's Neutral Grey,Series 2,Ultramarine Blue -  Bone Black -  Graphite Gray,PB 29 |  PBk 9 |  PBk 10,I,2,Y,S,15
+284600245,Joseph Z's Cool Grey,Series 2,Cobalt Turquoise -  Quinacridone Violet -  Lamp Black,PB 36 |  PV 19 |  PBk 6,I,2,Y,S,15
+284600246,Joseph Z's Warm Grey,Series 2,Yellow Ochre -  Quinacridone Violet -  Lamp Black,PY 43 |  PV 19 |  PBk 6,I,2,Y,S,15
+284600247,Phthalo Blue Turquoise,Series 2,Phthalocyanine Blue (Metal Free),PB 16,I,4,N,T,15
+284640001,Interference Blue,Series 1,Mica -  Titanium White,PW 20 |  PW 6,I,1,N,T,15
+284640002,Interference Copper,Series 1,Mica -  Titanium White,PW 20 |  PW 6,I,1,N,T,15
+284640003,Interference Gold,Series 1,Mica -  Titanium White,PW 20 |  PW 6,I,1,N,T,15
+284640004,Interference Green,Series 1,Mica -  Titanium White,PW 20 |  PW 6,I,1,N,T,15
+284640005,Interference Lilac,Series 1,Mica -  Titanium White,PW 20 |  PW 6,I,1,N,T,15
+284640006,Interference Red,Series 1,Mica -  Titanium White,PW 20 |  PW 6,I,1,N,T,15
+284640007,Interference Silver,Series 1,Mica -  Titanium White,PW 20 |  PW 6,I,1,N,T,15
+284640008,Iridescent Antique Bronze,Series 1,Mica -  Iron Oxide,PW 20,I,1,Y,T,15
+284640009,Iridescent Antique Copper,Series 1,Mica -  Iron Oxide,PW 20,I,1,Y,T,15
+284640010,Iridescent Antique Gold,Series 1,Mica -  Iron Oxide,PW 20,I,1,Y,T,15
+284640011,Iridescent Antique Silver,Series 1,Mica -  Iron Oxide,PW 20,I,1,Y,T,15
+284640012,Iridescent Aztec Gold,Series 1,Mica -  Titanium White -  Iron Oxide,PW 20 |  PW 6,I,1,Y,T,15/5
+284640014,Iridescent Blue-Silver,Series 1,Mica -  Titanium White,PW 20 |  PW 6,I,1,Y,T,15
+284640015,Iridescent Bronze,Series 1,Mica -  Iron Oxide,PW 20,I,1,Y,T,15
+284640016,Iridescent Copper,Series 1,Mica -  Iron Oxide,PW 20,I,1,Y,T,15/5
+284640017,Iridescent Gold,Series 1,Mica -  Iron Oxide,PW 20,I,1,Y,T,15
+284640018,Iridescent Goldstone,Series 1,Mica -  Titanium White -  Iron Oxide,PW 20 |  PW 6,I,1,Y,T,15
+284640019,Iridescent Jade,Series 1,Mica -  Titanium White -  Iron Oxide -  Chromium Green Oxide,PW 20 |  PW 6 |  PG 17,I,1,Y,T,15
+284640020,Iridescent Russet,Series 1,Mica -  Iron Oxide,PW 20 |  Iron Oxide,I,1,Y,T,15
+284640021,Iridescent Scarab Red,Series 1,Mica -  Mars Red,PW 20 |  PR 101,I,1,Y,T,15
+284640022,Iridescent Sunstone,Series 1,Mica -  Titanium White -  Iron Oxide,PW 20 |  PW 6,I,1,Y,T,15
+284640023,Iridescent Topaz,Series 1,Mica -  Titanium White -  Iron Oxide,PW 20 |  PW 6,I,1,Y,T,15/5
+284640024,Pearlescent Shimmer,Series 1,Mica -  Titanium White,PW 20 |  PW 6,I,1,Y,T,15
+284640025,Pearlescent White,Series 1,Mica -  Titanium White,PW 20 |  PW 6,I,1,Y,T,15/5
+284640026,Duochrome Mauve,Series 1,Mica -  Titanium White -  Iron Oxide,PW 20 |  PW 6,I,1,Y,T,15
+284640027,Iridescent Electric Blue,Series 1,Mica -  Titanium White -  Iron Oxide,PW 20 |  PW 6,I,1,Y,T,15/5
+284640028,Iridescent Garnet,Series 1,Mica -  Titanium White -  Iron Oxide,PW 20 |  PW 6,I,1,Y,T,15
+284640029,Duochrome Oceanic,Series 1,Mica -  Titanium White -  Iron Oxide,PW 20 |  PW 6,I,1,Y,T,15
+284640030,Duochrome Aquamarine,Series 1,Mica -  Titanium White -  Iron Oxide,PW 20 |  PW 6,I,1,Y,T,15
+284640031,Duochrome Hibiscus,Series 1,Mica -  Titanium White -  Iron Oxide,PW 20 |  PW 6,I,1,Y,T,15
+284640032,Iridescent Ruby,Series 1,Mica -  Titanium White,PW 20 |  PW 6,I,1,Y,T,15/5
+284640033,Iridescent Sapphire,Series 1,Mica -  Titanium White,PW 20 |  PW 6,I,1,Y,T,15
+284640034,Iridescent Moonstone,Series 1,Mica -  Titanium White,PW 20 |  PW 6,I,1,Y,T,15
+284640035,Duochrome Desert Bronze,Series 1,Mica -  Titanium White -  Iron Oxide,PW 20 |  PW 6,I,1,Y,T,15
+284640036,Duochrome Adobe,Series 1,Mica -  Titanium White -  Iron Oxide,PW 20 |  PW 6,I,1,Y,T,15
+284640037,Duochrome Saguaro Green,Series 1,Mica -  Titanium White -  Iron Oxide,PW 20 |  PW 6,I,1,Y,T,15
+284640038,Duochrome Cactus Flower,Series 1,Mica -  Titanium White -  Iron Oxide,PW 20 |  PW 6,I,1,Y,T,15
+284640039,Duochrome Blue Pearl,Series 1,Mica -  Titanium White,PW 20 |  PW 6,I,1,Y,T,15
+284640040,Duochrome Green Pearl,Series 1,Mica -  Titanium White,PW 20 |  PW 6,I,1,Y,T,15
+284640041,Duochrome Violet Pearl,Series 1,Mica -  Titanium White,PW 20 |  PW 6,I,1,Y,T,15
+284640042,Duochrome Emerald,Series 1,Mica -  Titanium White -  Iron Oxide,PW 20 |  PW 6,I,1,Y,T,15
+284640043,Duochrome Turquoise,Series 1,Mica -  Titanium White -  Iron Oxide,PW 20 |  PW 6,I,1,Y,T,15
+284640044,Duochrome Cabo Blue,Series 1,Mica -  Titanium White -  Iron Oxide,PW 20 |  PW 6,I,1,Y,T,15
+284640045,Duochrome Violet Fantasy,Series 1,Silica coated with Titanium White,PW 6,I,1,Y,T,15
+284640046,Duochrome Arctic Fire,Series 1,Silica coated with Titanium White,PW 6,I,1,Y,T,15
+284640047,Duochrome Autumn Mystery,Series 1,Silica coated with Titanium White,PW 6,I,1,Y,T,15
+284640048,Duochrome Tropic Sunrise,Series 1,Silica coated with Titanium White,PW 6,I,1,Y,T,15
+284640049,Duochrome Lapis Sunlight,Series 1,Silica coated with Titanium White,PW 6,I,1,Y,T,15
