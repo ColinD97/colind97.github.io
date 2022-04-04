@@ -16,6 +16,12 @@ let result = [];
 // header columns so we store them
 // in headers array
 let headers = array[0].split(",")
+headers = headers.map(word => {
+	return word.replace(/ /g,"_").toLowerCase()
+})
+console.log(headers)
+// headers = headers.toLowerCase()
+
 
 // Since headers are separated, we
 // need to traverse remaining n-1 rows.
