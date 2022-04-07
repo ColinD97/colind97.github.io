@@ -1,19 +1,26 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <body>
+      <head-bar />
+      <sidebar-filter />
+      <swatches-library />
+    </body>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import HeadBar from "./components/HeadBar.vue";
+import SidebarFilter from "./components/SidebarFilter.vue";
+import SwatchesLibrary from "./components/SwatchesLibrary.vue";
 
 export default {
-  name: 'App',
+  name: "App",
   components: {
-    HelloWorld
-  }
-}
+    SwatchesLibrary,
+    HeadBar,
+    SidebarFilter,
+  },
+};
 </script>
 
 <style>
@@ -24,5 +31,8 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+}
+body {
+  display: grid;
 }
 </style>
