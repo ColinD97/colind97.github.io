@@ -1,9 +1,16 @@
 <template>
   <div id="app">
     <body>
-      <head-bar />
-      <sidebar-filter />
-      <swatches-library />
+      <header>
+        <head-bar />
+      </header>
+      <main>
+        <swatches-library />
+      </main>
+      <aside>
+        <sidebar-filter />
+      </aside>
+      <footer>footer</footer>
     </body>
   </div>
 </template>
@@ -32,7 +39,29 @@ export default {
   color: #2c3e50;
   margin-top: 60px;
 }
+
 body {
   display: grid;
+  grid-template-columns: 100px 90vw;
+  grid-template-areas:
+    "header header"
+    "aside main"
+    "footer footer";
+}
+header {
+  /* color: rebeccapurple; */
+  background-color: darkolivegreen;
+  grid-area: header;
+}
+main {
+  grid-area: main;
+}
+aside {
+  background-color: bisque;
+  grid-area: aside;
+}
+footer {
+  background-color: darkseagreen;
+  grid-area: footer;
 }
 </style>
