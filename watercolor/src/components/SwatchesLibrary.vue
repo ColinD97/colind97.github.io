@@ -1,7 +1,11 @@
 <template>
   <div>
     <div class="library">
-      <swatch-card v-for="card in $store.state.swatches" v-bind:key="card.NAME" v-bind:card="card"/>
+      <swatch-card
+        v-for="card in filterSwatches(this.fieldKey, this.value)"
+        v-bind:key="card.NAME"
+        v-bind:card="card"
+      />
     </div>
   </div>
 </template>
@@ -11,6 +15,20 @@ import SwatchCard from "./SwatchCard.vue";
 export default {
   name: "swatch-library",
   components: { SwatchCard },
+  data(){
+    return {
+      fieldKey: 'series',
+      value: 'Series 1'
+    }
+  },
+  methods: {
+    filterSwatches(field, value) {
+      console.log(this.$store.state.swatches[0].color_name)
+      return this.$store.state.swatches.filter((item) => {
+        return item[field] === value;
+      });
+    },
+  },
 };
 </script>
 
