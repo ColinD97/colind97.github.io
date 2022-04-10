@@ -5,6 +5,9 @@ Vue.use(Vuex)
 
 export default new Vuex.Store({
     state: {
+        fieldKeyName: '',
+        fieldValueName: 'Series 3',
+        swatchesDisplay: [],
         swatches: [
             {
                 "name": "284600003",
@@ -3343,6 +3346,10 @@ export default new Vuex.Store({
     getters: {
     },
     mutations: {
+        ADD_BY_SERIES(state, value){
+            state.swatchesDisplay
+                .push(value)
+        }
     },
     actions: {
     },
